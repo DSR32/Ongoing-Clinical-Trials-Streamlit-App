@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  3 20:05:17 2023
-
-@author: karun
-"""
 
 from sqlalchemy import create_engine
 import pandas as pd
@@ -69,7 +63,6 @@ df_study,df_facil,df_con,df_elg,df_facilcon,df_int,df_spon = Fetching_Clinical_D
 
 
 
-st.balloons()
 
 
 
